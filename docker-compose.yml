@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  webtemplate:
+    image: webtemplate
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 5000
