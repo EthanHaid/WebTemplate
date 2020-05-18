@@ -1,2 +1,2 @@
 # WebTemplate
-A template for creating dynamic web applications using Vue, Flask and Postgres
+A template for creating containerized dynamic web applications using Vue, Flask, Postgres and Docker
